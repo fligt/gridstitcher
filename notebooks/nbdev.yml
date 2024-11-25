@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gridstitcher"
+  site-url: "https://fligt.github.io/gridstitcher"
+  description: "Experimental package to automate stitching/registration of a regular grid of image tiles."
+  repo-branch: master
+  repo-url: "https://github.com/fligt/gridstitcher"
