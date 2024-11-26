@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to gridstitcher",
+    "section": "",
+    "text": "Some camera systems, such as infrared reflectography at 1600nm, inherently produce fairly low resolution images. To increase overall image resolution it is possible to photograph an object in parts in a regular grid of overlapping image tiles. This then leaves us with the task of stitching or registering those tiles into a composite image. Doing this manually with a photo editor is certainly possible. However for large amounts of images this becomes a time consuming and tedious job.\nIn the recent Falnama project with Wereldmuseum and Klassik Stiftung Weimar we acquired 36 image tiles for 35 pages each. So we needed an automated stitching software. After unsuccessful trials for our types of images with Photoshop and several existing Python packages our project team decided to try and develop our own open source Python package gridstitcher.\nIf you are interested you can install the package from the Python package soon. You can also study the github source code and the documentation.",
+    "crumbs": [
+      "Welcome to gridstitcher"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
