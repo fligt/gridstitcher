@@ -7,7 +7,7 @@ __all__ = ['Tilegrid', 'make_kpts_descr_list', 'make_overlap_image_pairs', 'get_
            'get_x0_list', 'get_extent_list', 'get_canvas_rpp_list', 'total_distance', 'plot_vectors', 'crop',
            'remove_outliers', 'make_stitched']
 
-# %% ../notebooks/02_Automated-tile-grid-stitching-how-it-works.ipynb 24
+# %% ../notebooks/02_Automated-tile-grid-stitching-how-it-works.ipynb 22
 import numpy as np
 import cv2
 from pathlib import Path 
@@ -19,7 +19,7 @@ from functools import partial
 from matplotlib.patches import Rectangle
 import imageio 
 
-# %% ../notebooks/02_Automated-tile-grid-stitching-how-it-works.ipynb 25
+# %% ../notebooks/02_Automated-tile-grid-stitching-how-it-works.ipynb 23
 class Tilegrid(): 
 
     def __init__(self, im_files, nrows, ncols, filenames=True, tile_borders=True): 
