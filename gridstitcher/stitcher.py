@@ -10,8 +10,7 @@ __all__ = ['Tilegrid', 'make_kpts_descr_list', 'make_overlap_image_pairs', 'get_
 # %% ../notebooks/02_Automated-tile-grid-stitching-how-it-works.ipynb 24
 import numpy as np
 import cv2
-from pathlib import Path
-from glob import glob 
+from pathlib import Path 
 import matplotlib.pyplot as plt
 import os 
 import io 
@@ -19,7 +18,6 @@ import scipy.optimize as sop
 from functools import partial 
 from matplotlib.patches import Rectangle
 import imageio 
-import base64 
 
 # %% ../notebooks/02_Automated-tile-grid-stitching-how-it-works.ipynb 25
 class Tilegrid(): 
