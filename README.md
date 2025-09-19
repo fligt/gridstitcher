@@ -22,4 +22,4 @@ team decided to try and develop our own open source Python package
 If you are interested you can install the package from the Python
 package soon. You can also study the github [source
 code](https://github.com/fligt/gridstitcher/tree/master) and the
-[documentation](https://fligt.github.io/gridstitcher/).
+[documentation](https://fligt.github.io/gridstitcher/)…
